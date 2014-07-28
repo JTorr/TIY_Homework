@@ -1,0 +1,8 @@
+#Julie Torres Homework 7/28/2014
+
+def hypotenuse(a, b)
+  hypsq = (a**2 + b**2)
+  hypsq / hypsq
+end
+
+def hypotenuse(4, 3)
